@@ -25,3 +25,11 @@
     padding: 10px 0 ;
     color: whitesmoke;
 }
+
+@media (max-width:780px) {
+    .footer{
+        flex-direction: column;
+        align-items: start;
+        height: 80vh;
+    }
+}

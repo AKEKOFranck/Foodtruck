@@ -1,13 +1,21 @@
 'use client'
 import styles from "../whatsAppBtn/whatsAppButton.module.css"
+
 export default function WhatsAppButton({ product }) {
+
   const sendToWhatsApp = () => {
     const numero = "2250789763083";
 
     const message = `
-Produit : ${product.name}
+Menu : ${product.name}
 Prix : ${product.price}
-    `;
+Quantité : ${product.qt}
+
+*Client :*
+Nom : 
+Numéro :
+Localisation :
+`;
 
     const url = `https://wa.me/${numero}?text=${encodeURIComponent(message)}`;
     window.open(url, "_blank");
