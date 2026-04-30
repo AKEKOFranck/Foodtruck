@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "sandwichs",
+    "category": "sandwichs",
+    "food": [
+      {
+        "id": 1,
+        "pic": "/fondM2.png",
+        "name": "Burger + Frites",
+        "price": "4000 CFA",
+        "desc": "Burger savoureux accompagné de frites croustillantes",
+        "qt": "Menu"
+      },
+      {
+        "id": 2,
+                "pic": "/fondM2.png",
+
+        "name": "Tacos Poulet XL",
+        "price": "3500 CFA",
+        "desc": "Galette de blé garnie de poulet, sauce et frites",
+        "qt": "XL"
+      },
+      {
+        "id": 3,
+                "pic": "/fondM2.png",
+
+        "name": "Tacos Bœuf XL",
+        "price": "3500 CFA",
+        "desc": "Galette de blé garnie de bœuf haché, sauce et frites",
+        "qt": "XL"
+      },
+      {
+        "id": 4,
+                "pic": "/fondM2.png",
+
+        "name": "Chawarma Poulet",
+        "price": "3000 CFA",
+        "desc": "Pain roulé garni de poulet épicé et de légumes",
+        "qt": "1"
+      },
+      {
+        "id": 5,
+                "pic": "/fondM2.png",
+
+        "name": "Chawarma Bœuf",
+        "price": "2500 CFA",
+        "desc": "Pain roulé garni de bœuf épicé et de légumes",
+        "qt": "1"
+      },
+      {
+        "id": 6,
+                "pic": "/fondM2.png",
+
+        "name": "Panini Poulet",
+        "price": "2000 CFA",
+        "desc": "Panini grillé au poulet et fromage",
+        "qt": "1"
+      },
+      {
+        "id": 7,
+                "pic": "/fondM2.png",
+
+        "name": "Panini Bœuf",
+        "price": "2000 CFA",
+        "desc": "Panini grillé au bœuf et fromage",
+        "qt": "1"
+      },
+      {
+        "id": 8,
+                "pic": "/fondM2.png",
+
+        "name": "10 Nems",
+        "price": "2000 CFA",
+        "desc": "Rouleaux croustillants de pâte de riz farcis et frits",
+        "qt": "10 pièces"
+      },
+      {
+        "id": 9,
+                "pic": "/fondM2.png",
+
+        "name": "Sandwich Poulet",
+        "price": "2000 CFA",
+        "desc": "Sandwich au poulet avec crudités",
+        "qt": "1"
+      },
+      {
+        "id": 10,
+               "pic": "/fondM2.png",
+
+        "name": "Sandwich Bœuf",
+        "price": "1500 CFA",
+        "desc": "Sandwich au bœuf avec crudités",
+        "qt": "1"
+      }
+    ]
+  },
+  {
+    "slug": "plats",
+    "category": "plats",
+    "food": [
+      {
+        "id": 11,
+                "pic": "/fondM2.png",
+
+        "name": "Pizza Moyenne",
+        "price": "4500 CFA",
+        "desc": "Pizza garnie au choix",
+        "qt": "Moyenne"
+      },
+      {
+        "id": 12,
+                "pic": "/fondM2.png",
+
+        "name": "Manaïche Fromage",
+        "price": "3500 CFA",
+        "desc": "Pâte ronde garnie de fromage fondant",
+        "qt": "1"
+      },
+      {
+        "id": 13,
+                "pic": "/fondM2.png",
+
+        "name": "Riz Cantonnais",
+        "price": "2000 CFA",
+        "desc": "Riz sauté aux légumes et œufs",
+        "qt": "1"
+      },
+      {
+        "id": 14,
+                "pic": "/fondM2.png",
+
+        "name": "Salade César",
+        "price": "1500 CFA",
+        "desc": "Salade avec poulet, croûtons et sauce César",
+        "qt": "1"
+      },
+      {
+        "id": 15,
+                "pic": "/fondM2.png",
+
+        "name": "Portion de Frites",
+        "price": "1500 CFA",
+        "desc": "Frites dorées et croustillantes",
+        "qt": "1"
+      },
+      {
+        "id": 16,
+                "pic": "/fondM2.png",
+
+        "name": "Garden Salade",
+        "price": "1500 CFA",
+        "desc": "Salade composée fraîche et légère",
+        "qt": "1"
+      }
+    ]
+  }
+]

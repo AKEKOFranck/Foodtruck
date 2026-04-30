@@ -1,0 +1,16 @@
+
+/* BUTTON */
+.bt {
+  margin-top: 10px;
+  padding: 10px 15px;
+  border: none;
+  background: #27ae60;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.bt:hover {
+  background: #219150;
+}
